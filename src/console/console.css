@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    width:100ch;
+    background-color: #444;
+}
+
+li {
+    display: inline;
+    padding: 8px;
+    background-color: #444;
+    float: left;
+    color: aliceblue;
+}
+
+li:hover {
+    background-color: #111;
+}
+
+
